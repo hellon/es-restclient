@@ -11,7 +11,7 @@
 ---
  完成以上三步之后就可以轻松操作es了，对应的es版本为7.1X
  
- ##高级用法
+ ## 高级用法
  1. 创建entity对应index的setting和mapping都可以自定义。
  2. setting自定义需要实现IndexSetting接口，然后将实现类指定到@Document注解的settingGenerator属性上即可。
  3. mapping自定义需要实现IndexMapping接口，然后将实现类指定到@Document注解的mappingGenerator属性上即可。

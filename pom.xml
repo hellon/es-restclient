@@ -15,7 +15,7 @@
         <elasticsearch.version>7.1.0</elasticsearch.version>
         <guava.version>28.0-jre</guava.version>
         <lombok.version>1.18.8</lombok.version>
-        <jackson.version>2.9.8</jackson.version>
+        <jackson.version>2.10.3</jackson.version>
         <hutool.version>4.5.16</hutool.version>
     </properties>
 
